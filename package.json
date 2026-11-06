@@ -11,6 +11,13 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
+  "overrides": {
+    "@svgr/webpack": "^8.1.0",
+    "resolve-url-loader": "^5.0.0",
+    "serialize-javascript": "^7.1.4",
+    "underscore": "^1.13.8",
+    "webpack-dev-middleware": "^7.4.6"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
